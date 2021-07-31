@@ -8,11 +8,11 @@
 const santiago = 
 {
     pronouns: "he" | "him",
-    languages: [Javascript, Python],
+    languages: [Javascript],
     libraries: [Reactjs, ReactNative, Nodejs, Expressjs],
     databases: [MySQL, MongoDB],
     tools: [Expo, Git, GitHub],
-    currentlyLearning: [DesignApps, TypeScript],
+    currentlyLearning: [DesignApps, TypeScript, Python],
 }
 ```
    
