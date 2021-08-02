@@ -27,7 +27,6 @@ const santiago =
 <a href="https://twitter.com/santivittori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santivittori" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santiago-vittori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago-vittori" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15739234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15739234" height="30" width="40" /></a>
-<a href="https://instagram.com/santivittori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santivittori" height="30" width="40" /></a>
 <a href="https://github.com/Vittori12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Vittori12" height="30" width="40" /></a>
 </p>
 
