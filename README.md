@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Junior Full Stack Developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Santiago Vittori, Full Stack Developer from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
 <h3>Things I code with</h3>
 
 ```js
@@ -9,10 +9,10 @@ const santiago =
 {
     pronouns: "he" | "him",
     languages: [Javascript],
-    libraries: [Reactjs, ReactNative, Nodejs, Expressjs],
+    libraries: [Reactjs, Nodejs],
     databases: [MySQL, MongoDB],
-    tools: [Expo, Git, GitHub],
-    currentlyLearning: [DesignApps, TypeScript, Python],
+    tools: [Git, GitHub],
+    currentlyLearning: [Python, React Native],
 }
 ```
    
