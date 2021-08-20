@@ -12,7 +12,7 @@ const santiago =
     libraries: [Reactjs, Nodejs],
     databases: [MySQL, MongoDB],
     tools: [Git, GitHub],
-    currentlyLearning: [Python, React Native],
+    currentlyLearning: [Python, Django],
 }
 ```
    
