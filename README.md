@@ -1,22 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Junior Developer and Cybersecurity Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
-<h3>Things I code with</h3>
-
-```js
-const santiago = 
-{
-    pronouns: "he" | "him",
-    languages: [Javascript],
-    libraries: [Reactjs, Nodejs],
-    databases: [MySQL, MongoDB],
-    tools: [Git, GitHub],
-    currentlyLearning: [Python, Django],
-}
-```
+<p>Welcome to my page! </br> I'm Santiago Vittori, Developer and Cybersecurity Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
    
-<h3 align="center"><b>A passionate Developer from Argentina<b></h3> 
+<h3 align="center"><b>A passionate Hacker from Argentina<b></h3> 
   
   
 <div align="center"> <img src="https://user-images.githubusercontent.com/62179159/127392256-63ac7f96-5bdb-4f7d-b33c-56f848f983b2.png"/> </div>
