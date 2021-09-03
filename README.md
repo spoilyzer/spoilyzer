@@ -5,8 +5,6 @@
    
 - 🌱 I'm currently learning all about Bug Bounty.
 - 💻 I'm working to find bugs and make the world safer.
-- ⚡ I'm looking to collaborate on projects related with Bug Bounty.
-- 📚 I like reading and drinking coffee. 
 - 💭 Ask me about Cybersecurity.
 
   
