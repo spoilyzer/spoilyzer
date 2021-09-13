@@ -7,7 +7,9 @@
 - 💻 I'm working to find bugs and make the world safer.
 - 💭 Ask me about Cybersecurity.
 
-  
+<h3>Learning resources</h3>
+<a href="https://pentesterlab.com/my" target="blank"><img src="https://assets.pentesterlab.com/logo.png" height="50" width="220" HSPACE="20"/></a><a href="https://ctfchallenge.com/challenges" target="blank"><img src="https://ctfchallenge.com/images/ctflogo-trans.png" height="80" width="220" HSPACE="20"/></a><a href="https://app.hackthebox.eu/home" target="blank"><img src="https://miro.medium.com/max/768/1*n4gSd9adtSyz10nilEDdIQ.png" height="80" width="220" HSPACE="20"/></a><a href="https://tryhackme.com/dashboard" target="blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" height="80" width="160"/></a>
+
 <h4 align="left">Contact me here:</h4>
 <p align="left">
 <a href="https://twitter.com/santivittori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santivittori" height="25" width="25" /></a>
