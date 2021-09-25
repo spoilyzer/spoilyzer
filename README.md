@@ -7,8 +7,8 @@
 - 💻 I'm working to find bugs and make the world safer.
 - 💭 Ask me about Cybersecurity.
 
-<h3 align="center">Learning resources that I use</h3>
-<a href="https://pentesterlab.com/my" target="blank"><img src="https://assets.pentesterlab.com/logo.png" height="50" width="200" HSPACE="20"/></a><a href="https://ctfchallenge.com/challenges" target="blank"><img src="https://ctfchallenge.com/images/ctflogo-trans.png" height="60" width="180" HSPACE="20"/></a><a href="https://app.hackthebox.eu/home" target="blank"><img src="https://miro.medium.com/max/768/1*n4gSd9adtSyz10nilEDdIQ.png" height="70" width="180" HSPACE="20"/></a><a href="https://tryhackme.com/dashboard" target="blank"><img src="https://assets.tryhackme.com/img/THMlogo.png" height="80" width="160"/></a>
+<h4>Join me here 👇🏼</h4>
+https://hackerone.com/mrdotcom
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
