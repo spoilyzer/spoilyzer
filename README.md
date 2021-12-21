@@ -3,12 +3,9 @@
 
 <p>Welcome to my page! </br> I'm Santiago Vittori, Cybersecurity Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
    
-- 🌱 I'm currently learning all about Bug Bounty.
+- 🌱 I'm currently learning all about Bug Bounty and Python.
 - 💻 I'm working to find bugs and make the world safer.
-- 💭 Ask me about Cybersecurity.
-
-<h4>Join me here 👇🏼</h4>
-https://hackerone.com/spoilyzer
+- 💭 Ask me about Cybersecurity and Programming.
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
