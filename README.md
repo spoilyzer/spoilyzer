@@ -1,11 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Cybersecurity Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Santiago Vittori, Full Stack Developer Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
    
-- 🌱 I'm currently learning all about Bug Bounty and Python.
-- 💻 I'm working to find bugs and make the world safer.
-- 💭 Ask me about Cybersecurity and Programming.
+- 🌱 I'm currently learning all about programming languages.
+- 💻 I'm working on my personal projects.
+- 📚 I like reading in my free times.
+- 💭 Ask me about Programming and Cybersecurity.
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
