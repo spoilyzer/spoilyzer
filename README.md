@@ -4,8 +4,9 @@
 <p>Welcome to my page! </br> I'm Santiago Vittori, Full Stack Developer Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
    
 - 🌱 I'm currently learning all about programming languages.
-- 💻 I'm working on my personal projects.
+- 💻 I'm studing System Engineer and working on my personal projects.
 - 📚 I like reading in my free times.
+- 👶🏼 Discovering the Crypto World.
 - 💭 Ask me about Programming and Cybersecurity.
 
 <h4 align="left">Contact me here:</h4>
