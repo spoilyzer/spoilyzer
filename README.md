@@ -6,7 +6,6 @@
 - 🌱 I'm currently learning all about programming languages.
 - 💻 I'm studing System Engineer and working on my personal projects.
 - 📚 I like reading in my free times.
-- 👶🏼 Discovering the Crypto World.
 - 💭 Ask me about Programming and Cybersecurity.
 
 <h4 align="left">Contact me here:</h4>
