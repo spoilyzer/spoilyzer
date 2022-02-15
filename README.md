@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning all about Web 3 and Cybersecurity.
 - 💻 I'm studing System Engineer.
 - 🧠 I'm always learning something new.
-- 💪🏼 I like reading and play football in my free times.
+- 💪🏼 I like reading and playing football in my free times.
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
