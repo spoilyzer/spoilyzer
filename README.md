@@ -3,10 +3,10 @@
 
 <p>Welcome to my page! </br> I'm Santiago Vittori, Full Stack Developer Enthusiast from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
    
-- 🌱 I'm currently learning all about Web 3.
-- 💻 I'm studing System Engineer and working on my personal projects.
-- 🧠 I am always learning something new.
-- 📚 I like reading in my free times.
+- 🌱 I'm currently learning all about Web 3 and Cybersecurity.
+- 💻 I'm studing System Engineer.
+- 🧠 I'm always learning something new.
+- 💪🏼 I like reading and play football in my free times.
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
