@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Cybersecurity Analyst from <img src="https://image.flaticon.com/icons/png/512/3909/3909430.png" width="13"/> <b>Bouquet, Argentina</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/595/595562.png" width="15"/> <b>Rosario, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Santiago Vittori, Cybersecurity Analyst from 🌎 <b>Bouquet, Argentina</b>, currently living in 📍 <b>Rosario, Argentina</b>. </p>
    
 - 🌱 Currently learning all about Cybersecurity.
 - 💻 System Engineer student at UAI - Argentina.
