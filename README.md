@@ -1,12 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Cybersecurity Analyst from 🌎 <b>Bouquet, Argentina</b>, currently living in 📍 <b>Rosario, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Santiago Vittori, Jr Programmer from 🌎 <b>Bouquet, Argentina</b>, currently living in 📍 <b>Rosario, Argentina</b>. </p>
    
-- 🌱 Currently learning all about Cybersecurity.
+- 🌱 Currently learning all about programming.
 - 💻 System Engineer student at UAI - Argentina.
 - 🧠 Always learning and executing amazing things. 
-- 🚀 Python and Go as main languages. 
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
