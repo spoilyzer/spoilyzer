@@ -1,12 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Santiago Vittori, Jr Programmer and Web Security Researcher from 🌎 <b>Bouquet, Argentina</b>, currently living in 📍 <b>Rosario, Argentina</b>. </p>
+<p>Welcome to my page! </br> I'm Santiago Vittori, Web Security Researcher and Bug Bounty Hunter from 🌎 <b>Bouquet, Argentina</b>, currently living in 📍 <b>Rosario, Argentina</b>. </p>
    
-- 🌱 Currently learning all about programming and web security.
+- 🌱 Currently learning all about web security.
 - 💻 System Engineer student at UAI - Argentina.
 - 🧠 Always learning and executing amazing things.
-- 🚀 Python as a main language for hacking.
+- 🚀 Python and Go as a main languages for hacking.
 
 <h4 align="left">Contact me here:</h4>
 <p align="left">
